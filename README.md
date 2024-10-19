@@ -25,7 +25,7 @@ compared with nine state-of-the-art algorithms.
 }
 
 
-The Binary AEFA is further used to solve feature selection problems by adding a XOR oprator in Binary AEFA.
+# The Binary AEFA is further used to solve feature selection problems by adding a XOR oprator in Binary AEFA.
 
 Chauhan, Dikshit, and Anupam Yadav. "Xor-based binary aefa: theoretical studies and applications." 2022 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2022.
 DOI: 10.1109/SSCI51031.2022.10022176
